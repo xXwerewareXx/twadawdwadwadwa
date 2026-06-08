@@ -191,9 +191,7 @@
 #app-mount .message__5126c .wrapper__44b0c foreignObject[mask*=mobile] {
   width: calc(100% + 3px);
 }
-#app-mount .message__5126c .wrapper__44b0c rect[mask*=typing] {
-  width: calc(100% - 9px);
-}
+
 #app-mount .avatarHint_f89da9 foreignObject {
   -webkit-mask: none;
           mask: none;
